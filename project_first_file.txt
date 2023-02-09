@@ -1,3 +1,5 @@
 My first project file
 
-Adding new comment
+Adding new first comment
+
+Adding new second comment
